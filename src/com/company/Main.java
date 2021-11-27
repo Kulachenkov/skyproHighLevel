@@ -6,6 +6,7 @@ public class Main {
 
         // taskSeven();
         int i = 0;
+        System.out.println(i);
     }
 
     public static void taskFour (){
