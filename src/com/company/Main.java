@@ -8,11 +8,6 @@ public class Main {
 
 
         int i = 0;
-        int j = 1;
-
-        i = ++j;
-        System.out.println("i = " + i);
-        //System.out.println("j = " + j);
     }
 
     public static void taskFour (){
