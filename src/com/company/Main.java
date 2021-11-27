@@ -5,8 +5,6 @@ public class Main {
     public static void main(String[] args) {
 
         // taskSeven();
-
-
         int i = 0;
     }
 
